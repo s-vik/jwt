@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jwt/static/css/main.e744ac28.chunk.css",
-    "main.js": "/jwt/static/js/main.0aee768c.chunk.js",
-    "main.js.map": "/jwt/static/js/main.0aee768c.chunk.js.map",
-    "runtime-main.js": "/jwt/static/js/runtime-main.3d39fad0.js",
-    "runtime-main.js.map": "/jwt/static/js/runtime-main.3d39fad0.js.map",
-    "static/js/2.2392fc99.chunk.js": "/jwt/static/js/2.2392fc99.chunk.js",
-    "static/js/2.2392fc99.chunk.js.map": "/jwt/static/js/2.2392fc99.chunk.js.map",
-    "static/js/3.b540c38c.chunk.js": "/jwt/static/js/3.b540c38c.chunk.js",
-    "static/js/3.b540c38c.chunk.js.map": "/jwt/static/js/3.b540c38c.chunk.js.map",
-    "index.html": "/jwt/index.html",
-    "static/css/main.e744ac28.chunk.css.map": "/jwt/static/css/main.e744ac28.chunk.css.map",
-    "static/js/2.2392fc99.chunk.js.LICENSE.txt": "/jwt/static/js/2.2392fc99.chunk.js.LICENSE.txt",
-    "static/media/preloader.9bb0fb74.svg": "/jwt/static/media/preloader.9bb0fb74.svg"
+    "main.css": "/jwt_authorization/static/css/main.e744ac28.chunk.css",
+    "main.js": "/jwt_authorization/static/js/main.006ee2d1.chunk.js",
+    "main.js.map": "/jwt_authorization/static/js/main.006ee2d1.chunk.js.map",
+    "runtime-main.js": "/jwt_authorization/static/js/runtime-main.9d27432b.js",
+    "runtime-main.js.map": "/jwt_authorization/static/js/runtime-main.9d27432b.js.map",
+    "static/js/2.6b1d0b00.chunk.js": "/jwt_authorization/static/js/2.6b1d0b00.chunk.js",
+    "static/js/2.6b1d0b00.chunk.js.map": "/jwt_authorization/static/js/2.6b1d0b00.chunk.js.map",
+    "static/js/3.834ffa02.chunk.js": "/jwt_authorization/static/js/3.834ffa02.chunk.js",
+    "static/js/3.834ffa02.chunk.js.map": "/jwt_authorization/static/js/3.834ffa02.chunk.js.map",
+    "index.html": "/jwt_authorization/index.html",
+    "static/css/main.e744ac28.chunk.css.map": "/jwt_authorization/static/css/main.e744ac28.chunk.css.map",
+    "static/js/2.6b1d0b00.chunk.js.LICENSE.txt": "/jwt_authorization/static/js/2.6b1d0b00.chunk.js.LICENSE.txt",
+    "static/media/preloader.9bb0fb74.svg": "/jwt_authorization/static/media/preloader.9bb0fb74.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d39fad0.js",
-    "static/js/2.2392fc99.chunk.js",
+    "static/js/runtime-main.9d27432b.js",
+    "static/js/2.6b1d0b00.chunk.js",
     "static/css/main.e744ac28.chunk.css",
-    "static/js/main.0aee768c.chunk.js"
+    "static/js/main.006ee2d1.chunk.js"
   ]
 }
